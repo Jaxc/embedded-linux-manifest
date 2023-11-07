@@ -8,7 +8,7 @@
   <default remote="OpenSTLinux"/>
   
   <project name="bitbake" path="layers/openembedded-core/bitbake" remote="oe" revision="08033b63ae442c774bd3fce62844eac23e6882d7"/>
-  <project name="meta-skrooter" path="layers/meta-skrooter" remote="custom" />  
+  <project name="meta-skrooter" path="layers/meta-skrooter" remote="custom" revision="mickledore"/>  
   <project name="meta-openembedded" path="layers/meta-openembedded" remote="oe" revision="03fd1d368ac19793b3e4c35159ba2ce802247e4d"/>
   <project name="meta-qt5/meta-qt5" path="layers/meta-qt5" remote="github" revision="cf6ffcbad5275a3428f6046468a0c9d572e813d1"/>
   <project name="meta-st-openstlinux" path="layers/meta-st/meta-st-openstlinux" revision="b07a33f1f637693924501dbdf4abdd091402acf1"/>
