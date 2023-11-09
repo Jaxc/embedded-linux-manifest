@@ -3,8 +3,6 @@
   <remote name="github" fetch="https://github.com"/>
   <remote name="oe" fetch="http://git.openembedded.org"/>
  <remote name="custom" fetch="https://github.com/jaxc/"/>
-
-  <default remote="OpenSTLinux"/>
   
   <project name="bitbake" path="layers/openembedded-core/bitbake" remote="oe" revision="08033b63ae442c774bd3fce62844eac23e6882d7"/>
   <project name="meta-skrooter" path="layers/meta-skrooter" remote="custom" revision="mickledore"/>  
