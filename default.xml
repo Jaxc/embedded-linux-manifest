@@ -8,6 +8,7 @@
   
   <project name="bitbake" path="layers/openembedded-core/bitbake" remote="oe" revision="08033b63ae442c774bd3fce62844eac23e6882d7"/>
   <project name="meta-skrooter" path="layers/meta-skrooter" remote="custom" revision="mickledore"/>  
+  <project name="meta-skrinux" path="layers/meta-skrooter" remote="custom" revision="mickledore"/>  
   <project name="meta-openembedded" path="layers/meta-openembedded" remote="oe" revision="03fd1d368ac19793b3e4c35159ba2ce802247e4d"/>
   <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="3ef283e02b0b91daf64c3a589e1f6bb68d4f5aa1"/>
 </manifest>
